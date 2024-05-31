@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input, select {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+h2 {
+  margin-top: 20px;
+  color: green;
+}
